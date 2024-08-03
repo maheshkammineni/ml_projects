@@ -1,5 +1,5 @@
 Flask
-pandas 
+pandas
 numpy
 seaborn
--e . 
+-e .
