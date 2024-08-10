@@ -23,5 +23,3 @@ logging.basicConfig(
     filemode='a'  # Append mode
 )
 
-if __name__ == "__main__":
-    logging.info("Logging has started")
